@@ -1,10 +1,8 @@
 /* ADD YOUR CUSTOM CSS TO THIS FILE */
 body {font-family: 'Quicksand'; background: black}
 #title {color: white;text-align: center; padding: 250px; font-size: 80px; }
-
-
-
-
+#hey {height:1200px; width;auto; padding-left: 180px; padding-top: 30px}
+#hi {color:white; text-align: center; padding-top: 10px; padding-bottom: 10px}
 .btn-primary {
     --bs-btn-color: #fff ;
     --bs-btn-bg: #000 ;
@@ -21,6 +19,8 @@ body {font-family: 'Quicksand'; background: black}
     --bs-btn-disabled-bg: #dc7435;
     --bs-btn-disabled-border-color: #dc7435; 
 }
+
+.statone {padding-bottom: 55px;}
 
 .pagetitle {text-align: center; padding-top: 50px; padding-bottom: 50px}
 #midge {color:white; padding-left: 810px; padding-top: 130px; font-style: italic;
@@ -88,7 +88,7 @@ background:white; margin-bottom:50px;
   font-size:100px;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.9);
 }
-#studyfax {margin-top:-50px}
+
 #narrativebarrierbutton {width: 250px;
     height: 100px;
     font-size: 40px;
@@ -562,4 +562,4 @@ a:hover {
 .solid {background: white;}
 
 .white-page {
-    background-color: white;
+    background-color: white; }
